@@ -84,7 +84,7 @@ At the [official website](https://emojialphabet.vercel.app), you'll also find a 
 
 ### From *1984* by George Orwell
 
-〰️🅰️®️⬜ℹ️💲⬜🅿️📧🅰️©️📧▪️⬜🎏®️📧📧▶️🅾️Ⓜ️⬜ℹ️💲⬜💲🛴🅰️✔️📧®️🪀▪️⬜ℹ️🌀♑🅾️®️🅰️♑©️📧⬜ℹ️💲⬜💲✝️®️📧♑🌀✝️♓▪️
+〰️🅰️®️⬜ℹ️💲⬜🅿️📧🅰️©️📧▪️⬜🎏®️📧📧▶️🅾️Ⓜ️⬜ℹ️💲⬜💲🛴🅰️✔️📧®️🦞▪️⬜ℹ️🌀♑🅾️®️🅰️♑©️📧⬜ℹ️💲⬜💲✝️®️📧♑🌀✝️♓▪️
 
 **"War is peace. Freedom is slavery. Ignorance is strength."**
 
@@ -96,7 +96,7 @@ At the [official website](https://emojialphabet.vercel.app), you'll also find a 
 
 ### From *The Odyssey* by Homer (translated)
 
-✝️📧🛴🛴⬜Ⓜ️📧🔻⬜🅾️⬜Ⓜ️⛎💲📧🔻⬜🅾️🎏⬜✝️♓🅰️✝️⬜ℹ️♑🌀📧♑ℹ️🅾️⛎💲⬜♓📧®️🅾️⬜〰️♓🅾️⬜✝️®️🅰️✔️📧🛴📧▶️⬜🎏🅰️®️⬜🅰️♑▶️⬜〰️ℹ️▶️📧⬜🅰️🎏✝️📧®️⬜♓📧⬜♓🅰️▶️⬜💲🅰️©️🔑📧▶️⬜✝️♓📧⬜🎏🅰️Ⓜ️🅾️⛎💲⬜✝️🅾️〰️♑⬜🅾️🎏⬜✝️®️🅾️🪀▪️
+✝️📧🛴🛴⬜Ⓜ️📧🔻⬜🅾️⬜Ⓜ️⛎💲📧🔻⬜🅾️🎏⬜✝️♓🅰️✝️⬜ℹ️♑🌀📧♑ℹ️🅾️⛎💲⬜♓📧®️🅾️⬜〰️♓🅾️⬜✝️®️🅰️✔️📧🛴📧▶️⬜🎏🅰️®️⬜🅰️♑▶️⬜〰️ℹ️▶️📧⬜🅰️🎏✝️📧®️⬜♓📧⬜♓🅰️▶️⬜💲🅰️©️🔑📧▶️⬜✝️♓📧⬜🎏🅰️Ⓜ️🅾️⛎💲⬜✝️🅾️〰️♑⬜🅾️🎏⬜✝️®️🅾️🦞▪️
 
 **"Tell me, O Muse, of that ingenious hero who traveled far and wide after he had sacked the famous town of Troy."**
 
