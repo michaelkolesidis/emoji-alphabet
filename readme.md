@@ -1,4 +1,4 @@
-# 📧Ⓜ️🅾️🎷ℹ️⬜🅰️🛴🅿️♓🅰️🅱️📧✝️ | Emoji Alphabet
+ <h1>📧Ⓜ️🅾️🎷ℹ️⬜🅰️🛴🅿️♓🅰️🅱️📧✝️<br />Emoji Alphabet</h1>
 
 **Welcome to the Emoji Alphabet**
 
