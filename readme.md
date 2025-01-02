@@ -12,8 +12,6 @@ Additionally, we provide downloads of the Emoji Alphabet in various formats, inc
 
 This is an ongoing open project aiming to establish an inclusive community where all input is welcome. You can share suggestions, engage in discussions, and contribute to the project.
 
-Explore, create, and share the joy of emoji-based expression!
-
 ## The Alphabet
 
 | Letter | Emoji | Explanation |
@@ -48,8 +46,8 @@ Explore, create, and share the joy of emoji-based expression!
 
 | Symbol | Emoji | Explanation |
 |--------|-------|-------------|
-| **** | ▪️ | Full stop emoji |
-| **,** | 🔻 | Comma emoji |
+| **.** | ▪️ | Small, black, and distinct, resemples a full stop |
+| **,** | 🔻 | Small, and distinct, resembles a comma |
 | **!** | ❗️ | Exclamation mark emoji |
 | **?** | ❓ | Question mark emoji |
 | **#** | #️⃣ | Hash/hashtag emoji |
