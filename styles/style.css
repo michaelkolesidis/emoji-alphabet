@@ -1,0 +1,234 @@
+* {
+  font-family: 'Nunito', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+::selection {
+  background-color: #dadada;
+}
+
+body,
+html {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#logo {
+  width: 7em;
+  margin-top: 0.5em;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 0.25em;
+  font-size: 2em;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 1000;
+}
+
+nav {
+  margin: 1em 0;
+}
+
+a {
+  margin: 0 1em;
+  text-decoration: none;
+  color: black;
+  font-size: 1.1em;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#active-link {
+  font-weight: 800;
+}
+
+#intro,
+#outro {
+  max-width: 65ch;
+  text-align: justify;
+  margin-top: 1em;
+}
+
+p {
+  margin: 1em 0;
+}
+
+#welcome {
+  font-weight: 700;
+  font-size: 1.5em;
+}
+
+table {
+  margin: 2em 0 1em 0;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: none;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #e0e0e0;
+}
+
+td {
+  background-color: #f8f8f8;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+td:not(:last-child),
+th:not(:last-child) {
+  padding-right: 20px;
+}
+
+td:last-child {
+  text-align: left;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2em;
+}
+
+footer p {
+  max-width: 60ch;
+  text-align: center;
+  margin: 1em;
+  font-size: 0.75em;
+}
+
+#license-icon {
+  width: 7em;
+}
+
+/* Transliterate */
+.character {
+  font-weight: 700;
+}
+
+textarea {
+  border: 2px dashed #d4d4d4;
+  border-radius: 10px;
+  padding: 0.5em 1em;
+  width: 70ch;
+  height: 16em;
+  margin-bottom: 0.5em;
+  color: var(--main-color);
+}
+
+::placeholder {
+  color: black;
+  opacity: 0.4;
+}
+
+textarea:focus {
+  outline: none !important;
+  border: 2px dashed #8a8a8a;
+  background-color: #f5f5f5;
+}
+
+button {
+  font-weight: 600;
+  text-align: center;
+  border-radius: 60px;
+  white-space: nowrap;
+  cursor: pointer;
+  background-color: #e9e9e9;
+  height: 2rem;
+  width: fit-content;
+  position: relative;
+  padding: 0.25rem 1rem;
+  border: none;
+  margin: 1em 0;
+}
+
+h2 {
+  font-size: 1.25em;
+}
+
+#output-title {
+  display: none;
+}
+
+#output-text {
+  max-width: 65ch;
+  user-select: none;
+  font-size: 1.2em;
+}
+
+.tooltip {
+  position: absolute;
+  padding: 5px 10px;
+  border-radius: 4px;
+  background-color: rgba(53, 53, 53, 0.7);
+  color: white;
+  visibility: hidden;
+  transition: visibility 0.1s, opacity 0.3s linear;
+  opacity: 0;
+}
+
+/* Samples */
+.extract {
+  background: #f7f7f7;
+  margin: 2em 0;
+  border-radius: 60px;
+  padding: 2em 2em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 60ch;
+}
+
+.sample {
+  max-width: 50ch;
+  text-align: center;
+  font-weight: 600;
+}
+
+.source {
+  margin-top: 2.5em;
+  text-align: right;
+  font-size: 0.9em;
+}
+
+/* Download */
+main {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 4em;
+}
+
+main p {
+  max-width: 30ch;
+}
+
+main a {
+  margin: 0.5em 0;
+  max-width: fit-content;
+  font-weight: 700;
+}

@@ -1,7 +1,8 @@
 {
   "rewrites": [
-    { "source": "/transliterate", "destination": "/transliterate.html" },
-    { "source": "/samples", "destination": "/samples.html" },
+    { "source": "/transliterate", "destination": "/pages/transliterate.html" },
+    { "source": "/samples", "destination": "/pages/samples.html" },
+    { "source": "/download", "destination": "/pages/download.html" },
     { "source": "/", "destination": "/index.html" }
   ]
 }

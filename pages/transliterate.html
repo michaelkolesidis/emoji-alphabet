@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../styles/style.css" />
+    <link
+      rel="shortcut icon"
+      href="/assets/favicon/favicon.ico"
+      type="image/x-icon"
+    />
+    <title>Emoji Alphabet</title>
+    <script src="../emojiAlphabet.js" defer></script>
+    <script src="../src/main.js" defer></script>
+    <style>
+      * {
+        user-select: none;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img
+        id="logo"
+        src="/assets/emoji-alphabet.svg"
+        alt="Emoji alphabet logo"
+      />
+      <h1>Emoji Alphabet</h1>
+    </header>
+
+    <nav>
+      <a href="/">The Alphabet</a>
+      <a href="/transliterate" id="active-link">Transliterate</a>
+      <a href="/samples">Samples</a>
+      <a href="/download">Download</a>
+    </nav>
+
+    <!-- Text Input -->
+    <textarea
+      id="input-text"
+      placeholder="Type text here..."
+      rows="4"
+      cols="50"
+    ></textarea>
+
+    <!-- Transliterate Button -->
+    <button id="transliterate-button">Transliterate</button>
+
+    <!-- Display Output -->
+    <h2 id="output-title">Transliterated Text:</h2>
+    <p id="output-text"></p>
+
+    <div class="tooltip" id="tooltip"></div>
+  </body>
+</html>
