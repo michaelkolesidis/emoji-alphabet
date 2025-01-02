@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧐</text></svg>"
+    />
+    <title>Emoji Alphabet | 📧Ⓜ️🅾️🎷ℹ️⬜🅰️🛴🅿️♓🅰️🅱️📧✝️</title>
+    <script src="emojiAlphabet.js" defer></script>
+    <style>
+      * {
+        user-select: none;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>📧Ⓜ️🅾️🎷ℹ️⬜🅰️🛴🅿️♓🅰️🅱️📧✝️<br />Emoji Alphabet</h1>
+    </header>
+
+    <nav>
+      <a href="/" id="active-link">The Alphabet</a>
+      <a href="/transliterate">Transliterate</a>
+      <a href="/samples">Samples</a>
+      <a
+        href="https://github.com/michaelkolesidis/emoji-alphabet"
+        target="_blank"
+        rel="noopener noreferrer"
+        >Source</a
+      >
+    </nav>
+
+    <!-- Text Input -->
+    <textarea
+      id="input-text"
+      placeholder="Type text here..."
+      rows="4"
+      cols="50"
+    ></textarea>
+
+    <!-- Transliterate Button -->
+    <button id="transliterate-button">Transliterate</button>
+
+    <!-- Display Output -->
+    <h2 id="output-title">Transliterated Text:</h2>
+    <p id="output-text"></p>
+
+    <div class="tooltip" id="tooltip"></div>
+  </body>
+</html>
