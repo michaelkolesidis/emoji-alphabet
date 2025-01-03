@@ -4,7 +4,7 @@
 
 **Welcome to the Emoji Alphabet!**
 
-The Emoji Alphabet is an effort to create a standardized system where each letter of the Latin alphabet is represented by a unique emoji. An important aspect of our approach is the inclusion of a character for the space, which makes reading easier. The project also extends to include punctuation, numbers, and mathematical symbols, providing a complete emoji-based representation system.
+The Emoji Alphabet is an effort to create a standardized system where each letter of the Latin alphabet is represented by a unique emoji. An important aspect of this approach is the inclusion of a character for the space, which makes reading easier. The project also extends to include punctuation, numbers, and mathematical symbols, providing a complete emoji-based representation system.
 
 To make things easier, we offer a tool that allows you to transliterate your text into this Emoji Alphabet, transforming your words into a fun, emoji-filled version!
 
