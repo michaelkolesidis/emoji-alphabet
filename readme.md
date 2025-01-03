@@ -12,6 +12,8 @@ We provide downloads of the Emoji Alphabet in various formats, including JSON, J
 
 This is an ongoing, open project and we aim to establish an inclusive community, where all input is welcome. You can share suggestions, engage in discussions, and contribute to the project in any way possible.
 
+![The alphabet](./assets/emoji-alphabet-concise.png)
+
 ## The Alphabet
 
 | Letter | Emoji | Explanation |
