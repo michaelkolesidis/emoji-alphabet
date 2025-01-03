@@ -1,0 +1,21 @@
+I would like to show you my fun little project, the Emoji Alphabet!
+
+https://emojialphabet.vercel.app/
+
+It is an effort to create a standardized system where each letter of the Latin alphabet is represented by a unique emoji. An important aspect of my approach is the inclusion of a character for the space, which makes reading easier. I also included an emoji for comma and full stop.
+
+To make things easier, I created a tool that transliterates your texts into this Emoji Alphabet, transforming your words into a fun, emoji-filled version!
+
+You can find it here: https://emojialphabet.vercel.app/transliterate
+
+My Selection criteria:
+
+If a letter was already included in an emoji, the emoji was chosen. Then, if an emoji represented the letter directly or clearly resembled the letter’s shape, the emoji was chosen. If more than one emoji resembled a letter, the emoji with the most distinct and recognizable shapes was chosen for clarity. My main goal was to pick emoji that had clear lines and a simple design, making them easy to distinguish, even at smaller sizes, and across different vendors.
+
+In cases where no emoji directly represented the letter or its shape, I tried to find an object or symbol that could be associated with the letter. For example, for the letter "K," I chose the key emoji due to the phonetic similarity between "key" and "K". Can you see the logical connection? 😁
+
+You can find more details about the reasons I choose these specific emoji at the end of the projects' homepage ( https://emojialphabet.vercel.app/ ).
+
+Of course, I know this has been tried before, but I think my approach with the spaces and the punctuation will make things easier, and my transliteration tool will make it easier to actually adopt the alphabet. Of course my choices are not finalized or set in stone! I am open to new ideas and suggestions for changes and improvements! Ideally we could have polls for the most ambiguous ones, and chose them collectively!
+
+Btw the whole project is licensed under Creative Commons Attribution-ShareAlike 4.0 International license! 😎

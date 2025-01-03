@@ -6,7 +6,7 @@
 
 The Emoji Alphabet is an effort to create a standardized system where each letter of the Latin alphabet is represented by a unique emoji. An important aspect of this approach is the inclusion of a character for the space, which makes reading easier. The project also extends to include punctuation, numbers, and mathematical symbols, providing a complete emoji-based representation system.
 
-To make things easier, we offer a tool that allows you to transliterate your text into this Emoji Alphabet, transforming your words into a fun, emoji-filled version!
+To make things easier, we offer a tool that allows you to transliterate your texts into this Emoji Alphabet, transforming your words into a fun, emoji-filled version!
 
 We provide downloads of the Emoji Alphabet in various formats, including JSON, JavaScript, and plain text, as well as access to the all the files and the source code on GitHub. For inspiration, we've also prepared samples from literature and poetry that showcase the creative possibilities of the alphabet.
 
@@ -78,7 +78,7 @@ This is an ongoing, open project and we aim to establish an inclusive community,
 
 ## Selection and Design Principles
 
-The selection of emoji for the Emoji Alphabet was guided by several key principles. First, if a letter was already included in an emoji, it was chosen. Then, if an emoji represented the letter directly or clearly resembled the letter’s shape, it was chosen. If more than one emoji resembpled a leeter, the emoji with the most distinct and recognizable shapes were prioritized to ensure clarity and ease of identification. The main goal was to pick emoji that had clear lines and a simple design, making them easy to distinguish, even at smaller sizes.
+The selection of emoji for the Emoji Alphabet was guided by several key principles. First, if a letter was already included in an emoji, it was chosen. Then, if an emoji represented the letter directly or clearly resembled the letter’s shape, it was chosen. If more than one emoji resembled a letter, the emoji with the most distinct and recognizable shapes were prioritized to ensure clarity and ease of identification. The main goal was to pick emoji that had clear lines and a simple design, making them easy to distinguish, even at smaller sizes.
 
 In cases where no emoji directly represented the letter or its shape, the next step was to find an object or symbol that could be associated with the letter. For example, for the letter "K," a key emoji was chosen due to the phonetic similarity between "key" and "K." This approach helps maintain a strong, logical connection between the letter and its corresponding emoji, making the alphabet intuitive.
 
