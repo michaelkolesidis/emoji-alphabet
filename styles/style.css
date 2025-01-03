@@ -19,6 +19,14 @@ html {
   justify-content: center;
   align-items: center;
   width: 100%;
+  overflow: hidden;
+  overflow-y: scroll;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+html::-webkit-scrollbar {
+  display: none;
 }
 
 header {
