@@ -203,6 +203,7 @@ h2 {
   max-width: 65ch;
   user-select: none;
   font-size: 1.2em;
+  cursor: copy;
 }
 
 .tooltip {
