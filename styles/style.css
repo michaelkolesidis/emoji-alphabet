@@ -138,6 +138,7 @@ textarea {
   height: 16em;
   margin-bottom: 0.5em;
   color: var(--main-color);
+  font-size: 1em;
 }
 
 ::placeholder {
@@ -231,4 +232,61 @@ main a {
   margin: 0.5em 0;
   max-width: fit-content;
   font-weight: 700;
+}
+
+/* ------ */
+/* Mobile */
+/* ------ */
+@media only screen and (max-width: 768px) {
+  body {
+    width: 80%;
+  }
+
+  a {
+    font-size: 1.5em;
+    margin: 0.35em 0;
+  }
+
+  #logo {
+    width: 25%;
+  }
+
+  nav {
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* Transliterate */
+  textarea {
+    width: 80%;
+    font-size: 1.25em;
+  }
+
+  button {
+    font-weight: 700;
+    font-size: 1.5em;
+    height: 3rem;
+    width: fit-content;
+    position: relative;
+    padding: 0.25rem 1rem;
+    border: none;
+    margin: 1em 0;
+  }
+
+  #output-text {
+    font-size: 2em;
+  }
+
+  /* Samples */
+  .extract {
+    width: 80%;
+  }
+
+  .sample {
+    font-size: 1.25em;
+  }
+
+  .source {
+    font-size: 1em;
+  }
 }
